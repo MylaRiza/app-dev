@@ -18,4 +18,4 @@ It has been serialized in Shogakukan's Weekly Shōnen Sunday since January 1994.
 
 > "A detective who corners someone with logic, but lets them commit suicide... is no different from a murderer." — Shinichi Kudo
 
-	![alt text]((https://image.tmdb.org/t/p/w780/mwz7lYimh8da0zZHOI41xNd86yH.jpg))
+	![Detective Conan](https://image.tmdb.org/t/p/w780/mwz7lYimh8da0zZHOI41xNd86yH.jpg)
